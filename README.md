@@ -1,1 +1,1 @@
-"# Half_life3" 
+You will need Python and Pygame installed to run this game
